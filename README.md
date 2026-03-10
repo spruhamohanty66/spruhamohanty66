@@ -59,15 +59,23 @@ I turn fragmented, manual processes into intelligent AI-driven systems that can 
 
 ---
 
-### 🟢 Healthcare Licensing Workflow Automation
-> AI-driven system streamlining complex US healthcare licensing processes end-to-end.
+### 🟢 Medical Coding Agent
+> Agentic AI system that automates medical code assignment from clinical documentation.
 
-- Intelligent document validation & compliance checks
-- Automated workflow tracking & routing
-- Reduced manual processing overhead
-- **Built working prototype** to map edge cases and refine the AI decision logic
+- AI-driven extraction of diagnoses, procedures, and billable codes from clinical notes
+- Multi-step reasoning agent that cross-validates codes against payer rules & compliance standards
+- Reduced manual coding effort and human error in revenue cycle workflows
+- **Prototyped end-to-end agent pipeline** to validate accuracy across code sets (ICD-10, CPT)
 
 ---
+
+### 🟡 US K–12 MTSS Intervention Plan Generator
+> AI-powered tool that helps educators build personalized Multi-Tiered System of Supports (MTSS) intervention plans for students.
+
+- Analyzes student performance data to identify tier-appropriate interventions
+- Generates structured, educator-ready intervention plans aligned to district standards
+- AI-assisted progress monitoring recommendations and goal tracking
+- **Built rapid prototype** to test with educators and refine plan structure based on real feedback
 
 
 ## 🤝 Let's Connect
